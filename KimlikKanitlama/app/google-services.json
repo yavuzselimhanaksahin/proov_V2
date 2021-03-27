@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996212759533",
+    "project_id": "kimlikkanitlama",
+    "storage_bucket": "kimlikkanitlama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996212759533:android:97a3cf6140b8b5d4c8a5e4",
+        "android_client_info": {
+          "package_name": "com.yavuzselimhanaksahin.kimlikkanitlama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996212759533-35gumckincv55m7mq8gid5u6sm48t13h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4PK1H8f2yiX4Y-9vmFju1AGnyI0mORZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996212759533-35gumckincv55m7mq8gid5u6sm48t13h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
